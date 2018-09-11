@@ -21,7 +21,8 @@ A certain List element, identified by an attribute of the Student class that is 
 If no student with the specified attribute value exists, an Exception must be thrown.
 
 ReadFromFile:
-The file specified by the parameter is read into the current list instance. In case the current list is not empty, it is automatically cleared first.
+The file specified by the parameter is read into the current list instance. In case the current list is not empty, it is automatically cleared first. 
+Sample file: Data.txt
 
 GetStudentAt:
 The Student at the specified index is retrieved.
