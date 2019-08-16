@@ -2,7 +2,7 @@
 
 Create a linked List in StudentList.cs which can take student objects.
 
-The list should have the following operations:
+The list has the following operations:
 
 AddAtEnd:
 A new List element will be added at the end.
